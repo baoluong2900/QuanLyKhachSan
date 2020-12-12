@@ -1,0 +1,39 @@
+-------------ĐỀ TÀI QUẢN LÝ KHÁCH SẠN-----------------
+--------------Nội dụng công việc--------------------------
+
+1) Phát biểu bài toán
+2) Lập mô hình use case
+	- Vẽ một hoặc nhiều biểu đồ UC
+	- Đặc tả các Actor, Use case
+3) Lập mô hình domain
+4) Thiết kế CSDL tương ứng với mô hình domain
+5) Thiết kế và đặc tả GUI
+
+-----------Nhiệm vụ các thành viên trong nhóm---------------
+
+1) và 2) 
+	+ Thảo Vân 
+	+ Thanh Tâm
+3), 4) và 5) 
+	+ Đình Doãn 
+	+ Phúc Nguyên
+	+ Viết Bảo
+
+-----------Cách làm việc------------------------------
+
++ Mỗi thành viên trong nhóm làm xong nộp bài kèm file UML + ảnh UML rồi đưa vào powerpoint
+
++ Làm đến phần nào không hiểu gửi bài vào trong nhóm góp ý hoàn thiện các câu hỏi 
+
+-----------Link Powerpoint-------------------------------
+
+https://drive.google.com/file/d/1xvXHBthz28_BACpu65p_ovfdzeFtYtaU/view?usp=sharing
+
+-----------Thời gian lưu ý------------
+
+12/12 Xong hết cả 5 câu
+12-19/12 
+	+ Tổng hợp rồi 
+	+ Chỉnh sữa 
+	+ Nộp bài 
+26/12 trước thi nộp bài
